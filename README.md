@@ -138,7 +138,7 @@ The iterative version uses constant auxiliary space. The recursive version uses 
 ## Project Structure
 
 ```text
-GreatestCommonDivisorRecursion/
+GCDCalculator/
 ├── GreatestCommonDivisorRecursion/
 │   ├── Program.cs
 │   └── GreatestCommonDivisorRecursion.csproj
@@ -155,8 +155,8 @@ GreatestCommonDivisorRecursion/
 Clone the repository:
 
 ```bash
-git clone https://github.com/IPFizzy/GreatestCommonDivisorRecursion.git
-cd GreatestCommonDivisorRecursion
+git clone https://github.com/IPFizzy/GCDCalculator.git
+cd GCDCalculator
 ```
 
 Run the application:
@@ -170,12 +170,6 @@ Or open `GreatestCommonDivisorRecursion.slnx` in Visual Studio and run the proje
 ## Practice Project Context
 
 This repository is preserved as a completed algorithm practice project. It demonstrates recursive and iterative implementations of the same algorithm, base cases, modular arithmetic, input normalization, result verification, step counting, and extension of a two-value algorithm to multiple inputs.
-
-## Recommended Repository Name
-
-For a public portfolio, **`GCDCalculator`** is clearer than `GreatestCommonDivisorRecursion` because the finished project demonstrates both recursive and iterative approaches and also supports three-number calculations.
-
-The internal project and solution names can remain unchanged after renaming the GitHub repository.
 
 ## Author
 
